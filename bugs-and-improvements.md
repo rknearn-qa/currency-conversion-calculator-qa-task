@@ -43,7 +43,7 @@ Slows down the primary user flow and introduces unnecessary friction during repe
 **Priority:** Low / Medium (UX improvement)
 
 **Attachment:**  
-![Default value in Sell field](screenshots\bug-02-predefault-value.png)
+![Default value in Sell field](screenshots\improvement-02-predefault-value.png)
 
 ### Bug #3 — Same currency selection causes empty result state
 

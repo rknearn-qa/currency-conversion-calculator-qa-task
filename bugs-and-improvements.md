@@ -43,7 +43,7 @@ Slows down the primary user flow and introduces unnecessary friction during repe
 **Priority:** Low / Medium (UX improvement)
 
 **Evidence:**
-- See screenshot: ![Default value in Sell field](screenshots\improvement-02-predefault-value.png)
+- See screenshot: ![Default value in Sell field](screenshots/improvement-02-predefault-value.png)
 
 ### Bug #3 — Same currency selection causes empty result state
 
@@ -66,7 +66,7 @@ User is left without feedback and may assume the calculator is broken.
 **Severity:** Medium
 
 **Evidence:**
-- See screenshot: ![Same currency empty state](screenshots\bug-03-same-currency.png)
+- See screenshot: ![Same currency empty state](screenshots/bug-03-same-currency.png)
 
 ### Improvement #4 — Default value in "Sell" amount field affects usability
 
@@ -91,7 +91,7 @@ May confuse users who expect the "Buy" field to display the converted amount dir
 **Priority:** Low / Medium
 
 **Evidence:**
-- See screenshot: ![Buy input empty](screenshots\improvement-04-buy-empty.png)
+- See screenshot: ![Buy input empty](screenshots/improvement-04-buy-empty.png)
 
 ### Bug #5 — Negative value input is accepted without validation
 
@@ -119,4 +119,4 @@ When entering negative numbers in the "Sell" input field, the calculator process
 **Severity:** Medium
 
 **Evidence:**
-- See screenshot: ![Negative value handling](screenshots\bug-05-negative-value.png)
+- See screenshot: ![Negative value handling](screenshots/bug-05-negative-value.png)
